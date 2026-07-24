@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="16" fill="hsl(153, 80%, 60%)" opacity="0.1"/><circle cx="32" cy="32" r="16" fill="hsl(153, 80%, 60%)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>울산 간절곶 여행</title>
+  <rect width="64" height="64" rx="10" fill="hsl(243 43% 25%)"/>
+  <g transform="rotate(270 32 32)"><path d="M32 12 52 32 32 52 12 32Z" fill="none" stroke="hsl(243 24% 96%)" stroke-width="7" stroke-linejoin="round"/><path d="M32 24 40 32 32 40 24 32Z" fill="hsl(335 68% 62%)"/></g>
+</svg>
